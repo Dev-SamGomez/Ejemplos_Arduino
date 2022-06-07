@@ -6,8 +6,8 @@ Espalexa espAlexa;
 ////////////////////////////
 #define led D4
 
-const char* ssid = "IZZI-1A67";
-const char* password = "F8F5329D1A67";
+const char* ssid = "TU_SSID";
+const char* password = "TU_PASS";
 
 void setup() {
   Serial.begin(115200);
